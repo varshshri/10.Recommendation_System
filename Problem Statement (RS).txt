@@ -1,0 +1,6 @@
+Problem statement.
+
+Build a recommender system by using cosine simillarties score.
+
+
+https://github.com/arjunsonar-here/Recommendation-System-/blob/main/Problem%20Statement%20(RS).txt
